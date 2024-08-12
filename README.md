@@ -41,6 +41,7 @@ matplotlib.pyplot
 ## Setup
 ### Clone the Repository:
 git clone <repository-url>
+
 cd <repository-directory>
 
 ### Install Dependencies:
