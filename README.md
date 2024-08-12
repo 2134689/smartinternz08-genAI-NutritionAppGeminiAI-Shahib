@@ -29,9 +29,13 @@ NutriSense AI is an innovative web application designed to provide personalized 
 ## Requirements
 ### Create a requirements.txt file with the following content:
 streamlit
+
 google.generativeai
+
 python-dotenv
+
 base64
+
 matplotlib.pyplot
 
 ## Setup
