@@ -40,9 +40,9 @@ matplotlib.pyplot
 
 ## Setup
 ### Clone the Repository:
-git clone <repository-url>
+git clone repository-url
 
-cd <repository-directory>
+cd repository-directory
 
 ### Install Dependencies:
 pip install -r requirements.txt
