@@ -6,16 +6,24 @@ NutriSense AI is an innovative web application designed to provide personalized 
 
 ## Features
 **Image Analysis:** Capture or upload images of your meals for nutritional analysis.
+
 **Personalized Recommendations:** Provide dietary input to receive tailored meal plans and advice.
+
 **Nutritional Breakdown:** Get detailed nutritional information, including carbohydrates, fats, fibers, sugars, and other dietary components.
+
 **Visual Representation:** View a pie chart of nutritional components and their percentages.
 
 ## Technologies Used
+
 **=> Streamlit:** A framework for creating interactive web applications in Python. It is used for building the user interface of NutriSense AI.
+
 **=> Google Generative AI (Gemini Pro Vision API):** Provides advanced image analysis and content generation capabilities to analyze meal images and generate nutritional insights.
+
 **=> Python-dotenv:** Loads environment variables from a .env file to manage API keys and other sensitive data.
+
 **=> Base64:** Encodes and decodes binary data to handle image files and background images.
-### Matplotlib: Creates visualizations, specifically pie charts, to display nutritional breakdowns.
+
+**=> Matplotlib:** Creates visualizations, specifically pie charts, to display nutritional breakdowns.
 
 
 ## Requirements
@@ -50,6 +58,7 @@ The code sets up a Streamlit application with the following key functionalities:
 **-> Image Processing:** Processes the image for analysis using the Google Gemini Pro Vision API.
 
 **-> Nutritional Data Parsing:** Extracts and parses nutritional data from the API response.
+
 **-> Pie Chart Visualization:** Generates a pie chart representing the nutritional breakdown of the meal.
 
 
