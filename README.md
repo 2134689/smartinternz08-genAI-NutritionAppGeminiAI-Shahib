@@ -39,11 +39,11 @@ matplotlib.pyplot
 git clone <repository-url>
 cd <repository-directory>
 
-## Install Dependencies:
+### Install Dependencies:
 pip install -r requirements.txt
 
-## Create a .env File:
-### Add your Google API key to a file named .env:
+### Create a .env File:
+#### Add your Google API key to a file named .env:
 GOOGLE_API_KEY = "YOUR_GOOGLE_API_KEY"
 
 ## Run the Application:
