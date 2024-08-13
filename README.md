@@ -3,6 +3,8 @@
 # NutriSense AI
 ## About
 NutriSense AI is an innovative web application designed to provide personalized dietary recommendations and nutritional advice using the advanced capabilities of the Gemini Pro model. This app leverages artificial intelligence to analyze user data, dietary preferences, and health goals, delivering tailored meal plans, nutritional insights, and wellness tips. The primary aim of NutriSense AI is to promote healthier eating habits and improve overall well-being through intelligent and data-driven recommendations.
+## User Interface
+![Uploading Screenshot 2024-08-13 191102.png…]()
 
 ## Features
 **Image Analysis:** Capture or upload images of your meals for nutritional analysis.
