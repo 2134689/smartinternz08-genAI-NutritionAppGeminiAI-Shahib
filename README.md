@@ -9,13 +9,13 @@ NutriSense AI is an innovative web application designed to provide personalized 
 
 
 ## Features
-**Image Analysis:** Capture or upload images of your meals for nutritional analysis.
+**⭐Image Analysis:** Capture or upload images of your meals for nutritional analysis.
 
-**Personalized Recommendations:** Provide dietary input to receive tailored meal plans and advice.
+**⭐Personalized Recommendations:** Provide dietary input to receive tailored meal plans and advice.
 
-**Nutritional Breakdown:** Get detailed nutritional information, including carbohydrates, fats, fibers, sugars, and other dietary components.
+**⭐Nutritional Breakdown:** Get detailed nutritional information, including carbohydrates, fats, fibers, sugars, and other dietary components.
 
-**Visual Representation:** View a pie chart of nutritional components and their percentages.
+**⭐Visual Representation:** View a pie chart of nutritional components and their percentages.
 
 ## Technologies Used
 
